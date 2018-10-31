@@ -1,2 +1,2 @@
 language: csharp
-solution: Test.sln
+solution: Tests\Test.sln
